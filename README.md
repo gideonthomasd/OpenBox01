@@ -18,5 +18,7 @@ Configure Look and feel & obconf (ArcPunch Zekton 12; Icon: Moca) & (Arc-Froly-D
 obmenu-generator -p -i
 reboot
 
-Remove file lsb-release from 
+In pamac-manager find smtube and update all values
+Type w3 and change options
+
 
