@@ -13,5 +13,7 @@ Copy autostart to /home/phil/.config/openbox
 Run nitrogen
 Run mmaker (mm)
 Configure tint2
+put rc.xml into /home/phil/.config/openbox
+Configure Look and feel & obconf
 Reboot
 
