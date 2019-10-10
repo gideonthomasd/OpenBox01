@@ -14,6 +14,9 @@ Run nitrogen
 Run mmaker (mm)
 Configure tint2
 put rc.xml into /home/phil/.config/openbox
-Configure Look and feel & obconf
-Reboot
+Configure Look and feel & obconf (ArcPunch Zekton 12; Icon: Moca) & (Arc-Froly-Darker & Zekton 10 & 11)
+obmenu-generator -p -i
+reboot
+
+Remove file lsb-release from 
 
