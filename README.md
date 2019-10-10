@@ -16,6 +16,7 @@ Configure tint2
 put rc.xml into /home/phil/.config/openbox
 Configure Look and feel & obconf (ArcPunch Zekton 12; Icon: Moca) & (Arc-Froly-Darker & Zekton 10 & 11)
 obmenu-generator -p -i
+Redo initial in schema for obmenu
 reboot
 
 In pamac-manager find smtube and update all values
