@@ -7,5 +7,6 @@ cd yay
 makepkg -si
 yay -S pamac-aur
 yay -S ttf-zekton-rg
+yay -S ttf-spacemono
 yay -S obmenu-generator
 yay -S conky-lua-archers
