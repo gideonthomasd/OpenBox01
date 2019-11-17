@@ -13,7 +13,7 @@ sudo pacman -S w3m
 sudo pacman -S pavucontrol pulseaudio pulseaudio-equalizer
 sudo pacman -S gmrun
 sudo pacman -S neofetch rofi oblogout gtk2-perl lsb-release
-sudo pacman -S adapta-gtk-theme gvfs
+sudo pacman -S adapta-gtk-theme gvfs ntfs-3g
 sudo pacman -S virtualbox-guest-utils
 sudo systemctl start NetworkManager
 sudo systemctl enable NetworkManager
