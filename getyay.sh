@@ -5,6 +5,7 @@ sudo pacman -Syyu --noconfirm
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
+yay -S oblogout
 yay -S pamac-aur
 yay -S ttf-zekton-rg
 yay -S obmenu-generator
